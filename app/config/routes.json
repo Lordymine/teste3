@@ -10,6 +10,11 @@
       "path": "/teste2",
       "page": "teste2",
       "layout": "main"
+    },
+    {
+      "path": "/teste3",
+      "page": "teste3",
+      "layout": "main"
     }
   ]
 }
